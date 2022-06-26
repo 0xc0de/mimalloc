@@ -1,5 +1,5 @@
-# {fmt}
+# mimalloc
 
-{fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
+mimalloc is a compact general purpose allocator with excellent performance.
 
-This fork contains a version of the {fmt} library adapted for use in the Hork Engine.
+This fork contains a version of the mimalloc library adapted for use in the Hork Engine.
